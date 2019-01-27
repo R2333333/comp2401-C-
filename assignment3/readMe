@@ -1,0 +1,18 @@
+Program:    a3
+  
+Author:     Roy Xu
+
+Purpose:    A tool for range books in lists 
+
+sourceFile: assignment3.c
+
+Compilation:
+
+    gcc -Wall -o a1 assignment3.c
+
+Lauch&Operation:
+
+    After compilation by the commend, lauch in terminal by commend:
+        "./a3"
+
+

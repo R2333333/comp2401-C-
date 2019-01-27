@@ -1,0 +1,35 @@
+Program:    a4
+
+Version:    1.0.0
+
+Author:     Christine Laurendeau *(base code provider)
+            Roy Xu
+            Yihe Zhu
+
+Purpose:    To build a p2p connection system simulating the 
+            connectiong between client and server. Where messages
+            were sent encrypted between the server and client.
+
+Source Files:
+            Server.c
+            Client.c
+            main.c
+
+Header Files:
+            Server.c
+
+Object Files:   
+            a4-util.o
+
+Compilation: Type "make" in commond window.
+             Type "make clean" to clean up before recompilation.
+
+Launching & Operation:
+            Launching the server:   ./a4
+            Launching the client:   ./a4 127.0.0.1
+            To operate, launching the server firstly, then lauch
+            the client in anothor window. After both were launched
+            send message in serve and client turn by turn.
+
+*Note: The base code of Server.c and Client.c were provided by Christine.
+

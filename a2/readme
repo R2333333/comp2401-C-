@@ -1,0 +1,24 @@
+Program: 
+    a2
+
+Version: 
+    1.0.0
+
+Author:  
+    Roy Xu   
+
+Purpose: 
+    To simulate battles between heros and pirates.
+
+List of source:
+    assignment2.c
+
+Extract Commond:
+    tar -xvf assignment2.c
+
+Compilation Commond:
+    gcc -Wall -o a2 assignment2.c
+
+Lounching:
+    lounching in terminal with command:
+        ./a2
